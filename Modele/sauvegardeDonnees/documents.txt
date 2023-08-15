@@ -1,0 +1,8 @@
+307-1-3708;Journal;journal de montreal;2023
+419-1-7295;Journal;tva;22
+082-0-6579;Journal;Times;1900
+588-6-6540;Dictionnaire;larousse;mike
+419-1-7296;Livre;php;jean;True
+419-1-7299;Livre;Python;Kim;True
+012-1-5808;Livre;C#;Paul;True
+473-1-3348;Bonde dessinee;miki;Pau;Link
